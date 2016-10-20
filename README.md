@@ -49,14 +49,14 @@ MIT © [tony](https://github.com/smalleast)
 
 ## source
 
-MIT © [feizheng](https://github.com/afeiship)
+MIT © [smalleast](https://github.com/smalleast)
 
 
 [npm-image]: https://badge.fury.io/js/generator-bower-project-framework.svg
 [npm-url]: https://npmjs.org/package/generator-bower-project-framework
-[travis-image]: https://travis-ci.org/afeiship/generator-bower-project-framework.svg?branch=master
-[travis-url]: https://travis-ci.org/afeiship/generator-bower-project-framework
-[daviddm-image]: https://david-dm.org/afeiship/generator-bower-project-framework.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/afeiship/generator-bower-project-framework
+[travis-image]: https://travis-ci.org/smalleast/generator-bower-project-framework.svg?branch=master
+[travis-url]: https://travis-ci.org/smalleast/generator-bower-project-framework
+[daviddm-image]: https://david-dm.org/smalleast/generator-bower-project-framework.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/smalleast/generator-bower-project-framework
 [yeoman-docs]: http://yeoman.io/generator/actions_remote.html
 [mes-fs]: https://github.com/sboudrias/mem-fs
