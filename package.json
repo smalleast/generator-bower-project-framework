@@ -1,6 +1,6 @@
 {
   "name": "generator-bower-project-framework",
-  "version": "0.0.12",
+  "version": "0.0.1",
   "description": "Yeoman generator for bower-project-framework.",
   "homepage": "https://github.com/smalleast/generator-bower-project-framework",
   "author": {
